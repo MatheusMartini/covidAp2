@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AP2_Covid19</string>
+    <string name="description_worldMap">Map of the World</string>
+    <string name="description_brazilMap">Map of the World with Brazil highlighted</string>
+    <string name="world">World</string>
+    <string name="brazil">Brazil</string>
+
+    <string name="cases">Cases: </string>
+    <string name="confirmed">Confirmed: </string>
+    <string name="deaths">Deaths: </string>
+    <string name="recovered">Recovered: </string>
+    <string name="suspects">Suspects: </string>
+    <string name="refuses">Refuses: </string>
+
+</resources>
